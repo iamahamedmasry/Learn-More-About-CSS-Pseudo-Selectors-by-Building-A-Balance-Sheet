@@ -1,0 +1,5 @@
+tbody td {
+  width: 100vw; /* This might be too broad for table cells, consider a fixed width or max-width instead of 100vw */
+  min-width: 4rem;
+  max-width: 4rem;
+}

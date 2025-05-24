@@ -1,0 +1,7 @@
+table {
+  border-collapse: collapse;
+  border: 0;
+  width: 100%;
+  margin-top: 3rem; /* Corrected to margin-top to avoid confusion with margin: 3rem */
+  position: relative;
+}
