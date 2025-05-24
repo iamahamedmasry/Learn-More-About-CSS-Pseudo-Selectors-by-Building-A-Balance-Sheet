@@ -1,2 +1,4 @@
-# Responsive-Web-Design
-The Responsive Web Design Certification teaches HTML and CSS through hands-on projects. Build a cat photo app, learn CSS variables with a penguin, focus on accessibility with a quiz site, and create responsive layouts using Flexbox and Grid. Gain skills to build modern, responsive, and accessible websites.
+# Learn-More-About-CSS-Pseudo-Selectors-by-Building-A-Balance-Sheet
+You can use CSS pseudo selectors to change specific HTML elements.  In this course, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage.
+
+![Image](https://github.com/user-attachments/assets/3188f987-145d-45dd-adfd-9d1c8ffc5969)
