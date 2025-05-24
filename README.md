@@ -6,4 +6,8 @@ I’m currently learning through FreeCodeCamp, and because I find some answers d
 Please understand that this is not meant to cause any trouble or inconvenience to anyone.
 Thank you for your support! 🙏💻📚
 
+Best regards,
+Masry
+🔗 Connect with me on LinkedIn :www.linkedin.com/in/ahamedmasry-cs
+
 ![Image](https://github.com/user-attachments/assets/0425da5a-4d80-47c3-9b36-8d24de8d9b5a)
