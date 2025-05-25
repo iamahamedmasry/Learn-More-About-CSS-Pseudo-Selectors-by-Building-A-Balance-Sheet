@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/e667da9c-8150-4912-beb4-59f647875d49)
+
 # Learn More About CSS Pseudo-Selectors by Building a Balance Sheet
 
 _Welcome! This project is a hands-on way to understand and practice CSS pseudo-selectors by building a functional and visually appealing Balance Sheet_
